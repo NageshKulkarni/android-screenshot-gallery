@@ -1,0 +1,6 @@
+<resources>
+	
+	<dimen name="thumbnail_width">144dp</dimen>
+	<dimen name="thumbnail_height">144dp</dimen>
+	
+</resources>

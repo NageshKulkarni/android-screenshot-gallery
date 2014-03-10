@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string name="app_name">Screenshot Gallery</string>
+	
+	<string name="app_about"><![CDATA[
+		<b>Created by Simon Lightfoot, Demon Developers Ltd</b><br><br>
+		This project is Open Source and is licensed under the <a 
+		href="https://github.com/demon-developers/android-screenshot-gallery/blob/master/LICENSE">Apache License 2.0</a>.<br><br>
+		The source-code can be found on <a href="https://github.com/demon-developers/android-screenshot-gallery">
+		https://github.com/demon-developers/android-screenshot-gallery</a>.]]></string>
+	
+</resources>

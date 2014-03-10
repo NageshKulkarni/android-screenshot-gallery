@@ -1,0 +1,9 @@
+<resources>
+	
+	<color name="window_bg"  >#111111</color>
+	<color name="highlight_1">#008080</color>
+	<color name="highlight_2">#45B5B5</color>
+	<color name="title"      >#FFFFFFFF</color>
+	<color name="subtitle"   >#BBFFFF</color>
+	
+</resources>
